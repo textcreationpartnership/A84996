@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full relaton [sic] of the takinng [sic] of Bath by Sir Thomas Fairfaxes forces on Wednesday the 30th. of July, 1645. With the manner of the same, and the articles by which it was surrendred. And how Colonell Rich hath taken 100. garrison souldiers. 100. Welchmen. 6. peeces of ordnance. 200. muskets. 100. pikes. 10. barrels of gunpowder. 10. barrells of ammunition 1. staderd colours. 5. colours more, and good store of bullet, match, ammunition, bag and baggage. Also sixe peece of ordnance taken by Sir Thomas Fairfax, that the enemie had hid, 4000. weight of match also taken, and 44. barrells of powder. Printed, and published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84996</idno>
+            <idno type="STC">Wing F2372</idno>
+            <idno type="STC">Thomason E294_21</idno>
+            <idno type="STC">ESTC R200187</idno>
+            <idno type="EEBO-CITATION">99860992</idno>
+            <idno type="PROQUEST">99860992</idno>
+            <idno type="VID">113119</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113119)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E294[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full relaton [sic] of the takinng [sic] of Bath by Sir Thomas Fairfaxes forces on Wednesday the 30th. of July, 1645. With the manner of the same, and the articles by which it was surrendred. And how Colonell Rich hath taken 100. garrison souldiers. 100. Welchmen. 6. peeces of ordnance. 200. muskets. 100. pikes. 10. barrels of gunpowder. 10. barrells of ammunition 1. staderd colours. 5. colours more, and good store of bullet, match, ammunition, bag and baggage. Also sixe peece of ordnance taken by Sir Thomas Fairfax, that the enemie had hid, 4000. weight of match also taken, and 44. barrells of powder. Printed, and published according to order.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Barnard Alsop, and Jane Coe.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bath (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113119:1" rendition="simple:additions"/>
+            <p> A Full RELATON OF THE Taking of <hi>Bath</hi> by Sir THOMAS FAIRFAXES Forces on Wedneſday the 30<hi rend="sup">th.</hi> of July, 1645. With the manner of the ſame, and the Ar<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icles by which it was Surrendred.</p>
+            <p>And how Colonell <hi>Rich</hi> Hath Taken:</p>
+            <list>
+               <item>100. Garriſon ſouldiers.</item>
+               <item>100. Welchmen.</item>
+               <item>6. Peece of Ordnance.</item>
+               <item>200. Muſkets.</item>
+               <item>100. Pikes.</item>
+               <item>10. Barrels of Gunpowder.</item>
+               <item>10. Barrells of Ammunition</item>
+               <item>1. Staderd Colours.</item>
+               <item>5. Colours more, and good ſtore of Bullet, match, Amunition, Bag and Bag<g ref="char:EOLhyphen"/>gage.</item>
+            </list>
+            <p>Alſo Sixe Peece of Ordnance taken by Sir <hi>Thomas Fairfax,</hi> that the Enemie had hid, 4000. weight of Match alſo taken, and 44. Barrells of Powder.</p>
+            <p>Printed, and publiſhed according to Order.</p>
+            <p>LONDON, Printed by <hi>Barnard Alſop,</hi> and <hi>Jane Coe.</hi> 1645.</p>
+            <pb facs="tcp:113119:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:113119:2"/>
+            <head>A FULL RELATION OF THE TAKING OF BATH, And other proceedings of Sir <hi>Thomas Fairfax</hi> ſince he marched out of <hi>Bridgwater.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S I gave you an account of the ta<g ref="char:EOLhyphen"/>king of Bridgwater, ſo God multi<g ref="char:EOLhyphen"/>plying his mercies upon us, we ha<g ref="char:EOLhyphen"/>ving taken in Bath alſo; I ſhall briefly give you an account there<g ref="char:EOLhyphen"/>of: only I cannot omit ſomething yet behind of Bridgwater, for we have found ſix peeces of Ordnance which the enemy had hid, and there is left beſides what was deſtroyed by the fier, 44. barrels of gunpowder, and 4000 weight of match.</p>
+            <p>On Satterday laſt, Sir Thomas Fairfax marched out of Bridgwater, Lievtenant Generall Crumwell hath been ill, but God be thanked mends, that night we mar<g ref="char:EOLhyphen"/>ched to Marſtock about nine miles on the way to Sher<g ref="char:EOLhyphen"/>burn, where we quartered that night and Sunday night.</p>
+            <pb n="2" facs="tcp:113119:3"/>
+            <p> On the Lords day wee heard that <hi>Rupert</hi> had beene himſelfe in perſon (the day before) at Bath with Sir <hi>Tho. Bridges,</hi> to encourage him to keep it againſt us, pro<g ref="char:EOLhyphen"/>miſing him reliefe in caſe he ſhould be beſieged.</p>
+            <p>On Munday the 28. of July, 1645. the Generall marched to Sherborne, about fourteen miles from Mar<g ref="char:EOLhyphen"/>tock: Major Generall <hi>Maſſie</hi> was left further weſt: And the ſame day, <hi>viz.</hi> Munday, about 60 horſe, (moſt Welch) came from Prince <hi>Rupert</hi> to ſtrengthen Bath; and other Officers with them to governe the Towne, becauſe that P. <hi>Rupert</hi> had found, when hee was there two dayes before, that Sr. <hi>Thomas Bridges</hi> was quite out of heart to keep it: for the very name of Sir <hi>Thomas Fairfax</hi> ſtrikes a terrour to the enemy. But when they were come into Bath, the Towne cryed out as one man, all againſt the Welch: No Welch, no Welch: Neither did Sir <hi>Thomas Bridges</hi> take it well, that he ſhould bee diſplaced, and another put in; which cauſed a great di<g ref="char:EOLhyphen"/>viſion in the Towne, that the Officers and Horſe would not ſtay to diſpute it: yet nevertheleſſe ſome Welch ſtayed in the Towne, which did much diſpleaſe both the Governour, the Officers, the Townſmen; yea and the Garriſon ſouldiers alſo.</p>
+            <p>On Tueſday the Generall ſent 2. Regiments of horſe and two Troops of Dragoons, under the Command of Colenell <hi>Rich,</hi> to view and give account of the condi<g ref="char:EOLhyphen"/>tion of the Garriſon of Bath, then held by Sir T. <hi>Brid<g ref="char:EOLhyphen"/>ges</hi> for the King. The Army removed to Wells.</p>
+            <p>Col. <hi>Pickering</hi> is with a party before Sherborn, a neſt of moſt miſchevous vermine, under whom the countrey hath much ſuffered, and by whom before we came thi<g ref="char:EOLhyphen"/>ther ſome of our owne meſſengers have been taken, and our letters intercepted, &amp; the countrey do wholly com<g ref="char:EOLhyphen"/>plain againſt them for very great plunderers, and barba<g ref="char:EOLhyphen"/>rous neighbours.</p>
+            <pb n="3" facs="tcp:113119:3"/>
+            <p> We made on towards Bath, having no foot at all with us, onely the aforeſaid two Regiments of horſe, and 2. Companies of Dragoons and about an hour before ſun<g ref="char:EOLhyphen"/>ſet, the South ſide was cloſe beſet, the Dragoones lay a<g ref="char:EOLhyphen"/>bout Holliwell, and we kept them on the South, and on the weſt parts of the towne; But the north part of the towne lay open, for we came not to block them up, nor had we forces to do it then preſent there: The Enemie might have gone away on the North part of the towne, in deſpight of all that we could do to hinder them, but God did ſo infatuate them, that they had not power, as in our former victories, ſo particularly in this taking of Bath, the hand of God was much ſeene for us.</p>
+            <p>About Sun ſet we gained Holliwell; and placed our Dragoones within halfe Piſtoll ſhot of the Gate on the Bridge at Bath, where there was ſome skirmiſhing, and the Dragoones behaved themſelves very gallantly, In the Night the Enemie within took ſeveral Alarmes; and were in great fear of, us I conceive they knew not our ſtrength, onely before had ſome intelligence of the ad<g ref="char:EOLhyphen"/>vance of our Armie.</p>
+            <p>On this preſent Wedneſday morning the Enemie heard of a party from Malſbury, on the North ſide of them, but they were not Conſiderable, but they were ſtrucke with ſuch a fear that Sir <hi>Tho. Bridges</hi> ſent a Meſ<g ref="char:EOLhyphen"/>ſenger very early forth of Bath to us, to deſire a parly, which we wondred at, ſo we preſently held a parly with them, and by Sun riſing had the Garriſon of Bath deli<g ref="char:EOLhyphen"/>vered up to us, upon very good Conditions,
+<list>
+                  <item>1. <hi>All, Both officers and ſouldiers to have quarter for their lives.</hi>
+                  </item>
+                  <item>2. <hi>That Sir Thomas Bridges and all the Officers be permit<g ref="char:EOLhyphen"/>ted to march away to Briſtoll, without let or moleſtation.</hi>
+                  </item>
+                  <item>3. <hi>That Sir Thomas Bridges, and all other Field officers, and Captaines have liberty to march away with horſe, and Armes.</hi>
+                  </item>
+                  <pb n="4" facs="tcp:113119:4"/>
+                  <item>4. <hi>That all Officers under the degree of Cap<g ref="char:EOLhyphen"/>tains, march away without Arms (only ſtaves in their hands) to</hi> Briſtoll.</item>
+                  <item>5. <hi>That Sir</hi> Thomas <hi>Bridges, with all the Officers aſoreſaid doe immediatly march out of the Garriſon, and ſurrender it to</hi> Colonell Rich <hi>for the ſervice of tho</hi> Parliament.</item>
+                  <item>6. <hi>That all the Ordnance, Armes, and Ammu<g ref="char:EOLhyphen"/>nition be ſurrendred alſo.</hi>
+                  </item>
+                  <item>7. <hi>The common ſouldiers to be left all priſo<g ref="char:EOLhyphen"/>ners.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>All which was done; and we were poſſeſt of the Gar<g ref="char:EOLhyphen"/>riſon by beak of the day; And truly you may think it a ſtrange thing for horſe to take a Town, and no foot with<g ref="char:EOLhyphen"/>in 15 miles of it, but you may ſee how God infatuates men, and poſſeſſeth them with a feare, that deprives them of wiſdome and courage.</p>
+            <p>Farly Caſtle (Sir Edward Hungerfords houſe) is alſo beſieged, and the whole Army is every where full of action; and generally goe on exceeding cheerfully: not<g ref="char:EOLhyphen"/>withſtanding much hard duties, and conſtant ſervice.</p>
+            <p>Briſtoll is in the ſame condition, you would hardly beleeve the feares they are in there, Rupert went out thence yeſterday, and the town and ſouldiers in a great perplexity; the King hath been long expected there, but we heare he ſtayes ſtill at Cardiffe Caſtle? whe<g ref="char:EOLhyphen"/>ther Rupert be returned back againe to Briſtoll, we doe yet heare; but the plague doth certainly abate in that City.</p>
+            <p>Goring is ſtill in in his old quarters about Okehamp<g ref="char:EOLhyphen"/>ton
+<pb n="5" facs="tcp:113119:4"/> and confidently expects Greenvils and Hoptons recrutes, and the preſt men to be 7000 horſe and foot,</p>
+            <p>The Corniſh it is beleeved will doe him little good out of their own County, and the forced Clubmen as little as they.</p>
+            <p>Some VVelch landed on Munday laſt at Poſets point, that came from VVales; but I hope care will be taken for the guarding of the Seas, eſpecially that River, which may ſo be kept, that no boat can paſſe (without difficulty:) neither in nor out.</p>
+            <p>VVe ſhall ſuddenly have our recrutes, and what elſe we ſtay for; and then we ſhall on in our deſigne. In the mean time you ſee how induſtrious our Generall is to looſe no time, whilſt he is neceſsitated to ſtay; and I hope God will goe on to bleſſe Colonell Pickering againſt Sherburn, as he hath us; in the taking of this Garriſon of Bath: which make a good account of our ſervice in this vacaſie.</p>
+            <p>Yet in all this we look up to God, who is the Lord of Hoaſts; by whoſe power we have done thoſe things wherein he hath ſo bleſſed us; and therefore to him be given the praiſe of all his power, and goodneſſe.</p>
+            <closer>
+               <dateline>
+                  <hi>Bath</hi> 
+                  <date>the 30 of <hi>Iuly,</hi> 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_prisoners_and_spoils">
+            <head>A Lyſt of what was taken in the Garriſon of <hi>BATH</hi> by Colonell <hi>Rich,</hi> on <hi>VVedneſday</hi> Iuly <hi>30. 1645.</hi>
+            </head>
+            <list>
+               <item>200. priſoners which were left in the Towne, accor<g ref="char:EOLhyphen"/>ding to the Articles; which priſoners were as followeth.</item>
+               <pb n="6" facs="tcp:113119:5"/>
+               <item>100. Garriſon Souldi<g ref="char:EOLhyphen"/>ers.</item>
+               <item>100. Welch that came in but three houres be<g ref="char:EOLhyphen"/>fore.</item>
+               <item>200. Muskets alſo ta<g ref="char:EOLhyphen"/>ken, and</item>
+               <item>100. Pikes.</item>
+               <item>6. Peece of Ordnance.</item>
+               <item>10 Barrells of Gun<g ref="char:EOLhyphen"/>powder.</item>
+               <item>10. Barrells of other A<g ref="char:EOLhyphen"/>munition.</item>
+               <item>A great quantity of Match and Buller.</item>
+               <item>Sir <hi>Thomas Bridges</hi> his Standard Colour in the Royall Fort.</item>
+               <item>5. Colours beſides. Good ſtore of Proviſi<g ref="char:EOLunhyphen"/>ons.</item>
+               <item>Likewiſe ſome Piſtols ſwords, and all Sir <hi>Tho<g ref="char:EOLunhyphen"/>mas Bridges</hi> Bagge and Baggage.</item>
+               <item>Beſides the Armes and Proviſions of the towns mens.</item>
+               <item>Alſo divers halberdg Round-heads, and o<g ref="char:EOLhyphen"/>ther weapons.</item>
+               <item>This Garriſon is of great conſequence, and will much ſtreighten Bri<g ref="char:EOLhyphen"/>ſtoll.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
